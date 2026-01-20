@@ -60,13 +60,6 @@ Compare model performance using accuracy, precision, recall, and F1-score.
 
 Identify the best-performing model for predicting passenger survival.
 
-Installation
-
-Clone the repository:
-
-git clone https://github.com/yourusername/Titanic-ML-Adventures.git
-
-
 Navigate into the project directory:
 
 cd Titanic-ML-Adventures
